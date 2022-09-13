@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CSVTestTask.iml" filepath="$PROJECT_DIR$/.idea/CSVTestTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../degalukainos/.idea/degalukainos.iml" filepath="$PROJECT_DIR$/../degalukainos/.idea/degalukainos.iml" />
+    </modules>
+  </component>
+</project>
